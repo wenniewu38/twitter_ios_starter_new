@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/1vOhmeG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/kC79rhs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![]()
-
+![link text](https:// "title")
 
